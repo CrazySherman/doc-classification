@@ -1,0 +1,7 @@
+.DS_Store
+*.ipynb
+*.txt
+*.jpg
+sample_*
+*.ldac
+model/
